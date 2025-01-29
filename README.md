@@ -1,0 +1,1 @@
+A choice-driven simulation game built in Processing, designed to replicate the experience of a first-year student at UMBC. Players make decisions that impact key stats like happiness, health, grades, and money. Each choice shapes the player's journey, leading to multiple unique endings based on their final stats.
